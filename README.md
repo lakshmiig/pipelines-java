@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/c-LakshmiG/LIG/_apis/build/status/lakshmiig.pipelines-java?branchName=main)](https://dev.azure.com/c-LakshmiG/LIG/_build/latest?definitionId=4&branchName=main)
 
 # Contributing
 
